@@ -1,0 +1,107 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# PyInstaller
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pipenv
+Pipfile.lock
+
+# virtualenv
+venv/
+ENV/
+env/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+
+# pyenv
+.python-version
+
+# pytest
+__pycache__/
+.pytest_cache/
+
+# Salt generated files
+.salt-*
+
+# dotenv
+.env
+
+# Cookiecutter
+cookiecutter-config-file.yaml
+
+# pycache
+.pycache/
+
+# Rope
+.ropeproject/
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+
+# PyInstaller
+__pycache__/
+dist/
+build/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+CMakeFiles/
+CMakeTmp/
+
+# Compiled Python modules
+*.pyc
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+Pipfile.resolved
+
+# poetry
+poetry.lock
+pyproject.toml
+__pypackages__/
